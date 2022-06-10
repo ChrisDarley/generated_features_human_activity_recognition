@@ -7,3 +7,4 @@ The data used for this notebook is a set of engineered features generated for ea
 Using linear discriminant analysis, accuracy greater than 96% can be achieved when predicting the activity being performed.
 
 This notebook and the accuracy achieved is meant to be a benchmark of success for the cnn based model found here:
+https://github.com/ChrisDarley/cnn_activity_recognition.  I am attempting to see how closesly I can approximate the accuracy of lda on the generated features by using cnn architecture on the raw accelerometer and gyroscope data.
